@@ -3,3 +3,18 @@ html {
 }
 
 /* Votre CSS ci-dessous */
+
+#boitecool {
+  font-size: larger;
+  border-radius: 16px;
+  width: 250px;
+  height: 170px;
+  text-align: center;
+  line-height: 160px;
+  color: white;
+  font-weight: bold;
+  text-shadow: 2px 2px 1px #000;
+  border: 1px solid rgb(180, 0, 0);
+  background-color: red;
+  box-shadow: 5px 5px 10px 0px rgb(41, 0, 0), -1px -2px 4px 1px rgb(41, 12, 12) inset, 1px 1px 6px 2px rgb(255, 255, 255) inset;
+}
